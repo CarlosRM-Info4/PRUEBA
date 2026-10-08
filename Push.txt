@@ -1,0 +1,1 @@
+Con el comando git push -u origin main, cada cambio realizado con este comando se me sube a mi perfil
